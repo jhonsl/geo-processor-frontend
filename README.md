@@ -1,6 +1,6 @@
 # 🗺️ Geo Processor Frontend (Next.js)
 
-You can visit this project at [Geo Processor Frontend](https://geo-processor-frontend.vercel.app/).
+This project was deployed in vercel and you can visit this project at [Geo Processor Frontend](https://geo-processor-frontend-tdua.vercel.app).
 
 This is the frontend interface for the **Geo Processor** application.  
 It allows users to enter geographic coordinates, send them to the backend, and visualize the **computed bounding box** and **centroid** on a map.
